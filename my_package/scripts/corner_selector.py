@@ -7,6 +7,7 @@ from my_package.msg import ImgCords
 
 
 #added an aribitrary comment 
+
 # Define a list to store the selected points
 
 
